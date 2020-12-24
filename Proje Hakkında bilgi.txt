@@ -1,0 +1,5 @@
+Web Programlama ödevimiz için konu seçimimiz e-ticaret sitesidir.
+Sitemizde Admin ve Üye girişi olacaktır.üyeler sadece urunlerı gorebılecek
+ve satın alabilecektir.Adminlerimiz ise herhangi bir ürün silme ürün ekleme vs..
+işlemleri gerçekleştirecektir.Sitemizde ağırlıklı olarak teknolojik ürünlerle 
+birlikte farklı urunler de vardır.Projemizi bu sekılde gerçekleştireceğiz.
